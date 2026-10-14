@@ -1,0 +1,9 @@
+# Ignore build folders in any sub-directory
+**/Debug/
+**/Release/
+*.elf
+*.list
+*.map
+*.o
+*.su
+**/.settings/
